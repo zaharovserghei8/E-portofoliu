@@ -38,4 +38,4 @@ Tabel cu CSS personalizat – afișarea unui inventar de produse, cu rânduri al
 
 Nume: Zaharov Serghei
 
-Profil GitHub: [github.com/username](https://github.com/zaharovserghei8)
+Profil GitHub:(https://github.com/zaharovserghei8)
